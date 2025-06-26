@@ -38,7 +38,7 @@ const About = () => {
             <p className='badge'>Best Cocktails</p>
             <h2>Where every details matters <span className='text-white'>-</span> from muddle to granish</h2>
           </div>
-          <div className='sub-content'>
+          <div className='sub-content border-3 p-6 rounded-4xl border-amber-400'>
             <p>Every cocktail we server is a reflection of our obsession with detail - from the first muddle to the final garnish. That care is wat turns a simple drink into something truly memorable.</p>
 
             <div>
