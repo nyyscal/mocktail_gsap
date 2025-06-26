@@ -69,7 +69,7 @@ const Menu = () => {
         </div>
 
         <div className='recipe'>
-          <div ref={contentRef} className='info'>
+          <div ref={contentRef} className='info ml-8'>
             <p >Recipe for:</p>
             <p id='title'className='text-amber-500'>{currentCocktail.name}</p>
           </div>
